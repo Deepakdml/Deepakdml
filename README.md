@@ -1,10 +1,10 @@
-# 💫 About Me:
-🚀 I design and build powerful backend systems with Java & Spring—turning complex ideas into scalable, production-ready applications
-🤖 I work at the intersection of AI/ML and real-world problems—building intelligent systems that actually do something, not just sit in notebooks
-⚙️ From databases to APIs to full-stack flows, I engineer systems end-to-end with performance, clarity, and clean architecture in mind
-☁️ I bring ideas to life with cloud + DevOps, making sure what I build is not just functional—but deployable and resilient
-🔥 I don’t just write code—I craft solutions that blend software engineering with intelligence
+## 🚀 About Me
 
+- 🚀 I design and build powerful backend systems with Java & Spring—turning complex ideas into scalable, production-ready applications  
+- 🤖 I work at the intersection of AI/ML and real-world problems—building intelligent systems that actually *do something*, not just sit in notebooks  
+- ⚙️ From databases to APIs to full-stack flows, I engineer systems end-to-end with performance, clarity, and clean architecture in mind  
+- ☁️ I bring ideas to life with cloud + DevOps, making sure what I build is not just functional—but deployable and resilient  
+- 🔥 I don’t just write code—I craft solutions that blend software engineering with intelligence  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deepakdml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkumarjsr138@gmail.com) 
